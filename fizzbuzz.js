@@ -15,7 +15,7 @@ function arrayEquals(arr1, arr2) {
  */
 
 function sum(a, b) {
-  return a+b;
+  return a + b;
 }
 
 console.assert(sum(8, 11) === 19);
